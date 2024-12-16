@@ -39,7 +39,7 @@ curl http://127.0.0.1:3333/mass?port=<COM-порт весов> (Например
 
 Приложение может быть упаковано в .exe приложение для простоты запуска с помощью ```pyinstaller
 ```
-``` pyinstaller --onefile app.py
+pyinstaller --onefile app.py
 ```
 
 
