@@ -6,7 +6,7 @@ API для получения массы с весов МАССА-К через 
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/yourusername/massa-k-api.git
+    git clone https://github.com/taubusu/massa-k-api.git
     cd mass-api
     ```
 
